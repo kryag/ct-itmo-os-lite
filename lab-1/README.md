@@ -1,2 +1,1 @@
-# ct-itmo-os-lite
-Laboratory solutions for the course "OS Lite", y2023
+<h1 align="center"><a href="https://github.com/kryag/ct-itmo-os-lite/blob/main/lab-1/problem-statement.pdf" target="_blank">Лабораторная работа №1. Основы использования консольного интерфейса ОС Linux и интерпретатора bash</a></h1>
