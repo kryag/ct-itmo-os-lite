@@ -1,2 +1,1 @@
-# ct-itmo-os-lite
-Laboratory solutions for the course "OS Lite", y2023
+<h1 align="center"><a href="https://github.com/kryag/ct-itmo-os-lite/blob/main/lab-4/problem-statement.pdf" target="_blank">Лабораторная работа №4. Работа с файлово-каталожной системой в ОС Linux</a></h1>
